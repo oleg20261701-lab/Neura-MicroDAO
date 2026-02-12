@@ -1,4 +1,4 @@
-export const CONTRACT_ADDRESS = "0x0000000000000000000000000000000000000000"; // Deploy and update this
+export const CONTRACT_ADDRESS = "0x730EEAE4920e26A90b96430192c843B8006b9B65"; // Deploy and update this
 
 export const NEURA_TESTNET = {
   chainId: 267,
